@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+<p>
+
+Assignment 1                                                                                                                 
+Matthew R Nunn                                                                             
+S3882529
+S3882529@student.rmit.edu.au            
+https://github.com/matthewnunn16/ITA1.git   
+ 
+
+
+Personal Information
+I attended Deakin University straight after high school to study a Bachelor of Forensic Science. Being unsure about what I wanted to do in future I then completed an apprenticeship as a chef spending the majority of my time at a Greek restaurant. Once qualified I worked 4 years as a fully qualified chef mostly in cafes in the Geelong area. Once lockdown hit Victoria the restaurant I was working at closed and I decided to look to transition careers into IT.
+My Dads parents arrived in Australia by boat from Germany in 1956 however very little German language or culture are used currently within my family. 
+For the last 10 years I have been either secretary or treasure of my cricket club as well as playing 87 very mediocre games of turf cricket mainly opening the batting and bowling off-spin occasionally when called upon.
+ 
+
+Interest in IT
+IT has been a large part of my life since grade 3 when I changed schools from a tiny 36 student school in the bush to a larger one in Wangaratta and we had a couple of Windows computers and one Mac in our classroom. Every chance my friends and I had we’d try to get to the Mac to play this very basic but very fun golf game. Ever since I have been very interested in computers and video games. Currently I am playing Dota 2, Cyberpunk 2077 and Baldur’s Gate 3. Even with 20 years of experience playing games, my IT experience is very small. I chose RMIT and Open University for the ability to study at home during Covid and recommendations from friends who previously studied at RMIT. Currently I'm just studying 2 classes over a study period to see how I go and how I like it before hopefully undertaking a full degree. I hope to learn the basics needed before making an informed choice about future studies.
+
+
+Ideal job
+
+https://www.seek.com.au/job/51170866?type=standard#searchRequestToken=781dab78-ae58-4613-9e67-17006cd77d90
+
+A forensic technology analyst uses technology such as computers and phones to obtain evidence either for use in a criminal investigation or in civil lawsuits. With my previous studies in forensic science and my interest in IT, a role as a forensic technology analyst seems very appealing as I'd like to use my knowledge to work in a position that helps the justice system function correctly.
+The qualifications needed are preferably one of am IT, a computer science or a law degree with strong technical and analytical skills.
+Currently I have a bachelor of forensic science but ideally id have an IT degree before looking for employment in the field, which I hope to enroll in and complete at RMIT after this trial semester.
+ 
+
+ 
+ 
+
+
+Personal profile 
+
+Myers-Briggs (Myers-Briggs personality test, 2020)
+Mostly Introverted, I prefer solitary activities and too much social interaction is tiring. When needed I can be outgoing for a short burst.
+
+ 
+Moderately observant, practical and down to earth. I like to use information from around me to informed decisions rather than relying on instinct.
+
+ 
+Slightly favoured towards thinking, I like to use logic over emotions.
+
+ 
+Leaning just to the prospecting side. Good at improvising and making the most of opportunities. Like to keep my options open.
+
+ 
+Just on the turbulent side, self-conscious, can be stressed easily. Always wanting to improve.
+
+ 
+These results are what I expected, I really enjoy being by myself and like larger social interactions in small bursts. Logic and making informed decisions have always been how I like to do things. Very self-conscious and always wanting to improve.
+While I'd rather be working solo most of the time, when needed I can do team situations but prefer a stronger personality around to take a lead role.
+ 
+Learning styles (Learning styles test, 2020)
+My learning style is very even between the 3, with strengths in recalling spoken information such as people's names, comprehending visual information like graphs and diagrams.
+
+I think I learn in a variety of ways with none of the three styles taking a lead role.
+ 
+
+Big 5 (The Big Five Personality Test, 2020)
+Openness
+42% I think I'm intellectual and can think in complex ways, but lack creativity and the need for adventure. Conventional and practical is a good way to describe me.
+
+Conscientiousness 
+52% a balance between good organizational skills and determination with a small amount of impulsiveness.
+
+Extraversion
+35% Like the previous Myers-Briggs test I scored low in extraversion, much preferring my own company and limiting large social interaction.
+ 
+
+Agreeableness
+67% I often put other people’s needs before my own, and gain a good amount of pleasure from doing so.
+
+Neuroticism
+44% I don’t tend to show a lot of emotion and tend to move on quickly from any misfortune in my life.
+ 
+After taking these 3 tests I believe that im quite introverted and very logical. Ideally if working in a team I'd look for a strong personality to lead the group and someone creative to cover my lack of creativity.
+ 
+
+Project- sports club management app
+
+overview
+After 10 years serving on the executive committee of my cricket club, I have found there are multiple good apps but never one that covers all the needs off a club. From managing emergency contact information, membership details, club merchandise, best and fairest voting and team announcements. After downloading the app, users would create an account, filling in information such as name, contact number and emergency contact details with different members having different permissions based on their role within the club. 
+
+Motivation
+Having been heavily involved in my local cricket club (Guild St. Mary’s in Geelong) as either treasurer or secretary, I have found sharing information between executive committee members and managing stuff like best and fairest voting, emergency contact information is normally a complicated mess with several apps and programs used. Each program normally only helps with one function and each one requires a separate account. With one program to manage all the required functions, club members just require one login and allows the club to share relevant information to those who need it. Multiple functions would only be required by committee members or team captains and users will be able to be assigned roles to gain access to the features they require.
+Description
+The program itself contains nothing overly complex but is a series of smaller programs combined to work together and reduce the number of programs and log ins required by club members.
+Firstly, when players download the app, they will be asked to set up an account and provide name, phone number, date of birth and emergency contact information. This information is stored to be used by the club secretary for registration with the local cricket association as well as listed in an easily accessible emergency contact database if something happens during a game and someone is needed to be contacted. Currently players right down this information and its processed into a spreadsheet by the secretary and it lacks access to crucial information in case of emergency by anyone other than the secretary.
+
+The app will also include a store where players can order and pay for club gear such as hats, shirts and hoodies and pay their yearly membership fee. The app will also function as a stocktake program for the committee and help us order the correct amount of product. This feature will ensure correct sizes are ordered and the correct number of products are ordered to reduce waste and save the club money
+ 
+
+Another feature will be an in-built calendar with all the club's games, training sessions and social activities listed for players to see and RSVP to. Currently the draw is listed on the Geelong Cricket Association page and training and social activities listed on the clubs facebook page. Players will be able to mark availability for games and when teams are selected a push notification will be sent to the player stating where and when they are playing as well as requiring confirmation from the player to make sure players show up at the correct place at the correct time.
+
+The last major feature will be a private 3 2 1 voting system for team captains to input the best players from each game and the results stored securely for someone from the committee to access on awards night at the end of the year 
+
+When the app is first set up, the creator will be able to assign members roles which give to access to what is needed. With committee members and such given access to everything and players just given access to front end features 
+
+Tools and technologies
+For Android you can download a free software development kit which contains samples, source code, developer tools and even an emulator to test your app. A one-time fee of $25 is required to register your app on Google Play
+Apple on the other hand requires the iOS Developer Centre which contains several tools for app development.
+There are several app development tools such as AppMakr, MyAppBuilder or MIT App Inventor which can help in development 
+Skills required
+A strong background in coding would be a huge advantage as well as knowledge on database design. App development tools listed above can reduce some of the knowledge needed to make apps 
+Outcome
+If the app is successfully finished it would help small sporting clubs manage their players information easily, reduce the number of apps needed by senior members and increase the sharing of information between key members of the committee
+ 
+
+References
+16personalities.com. 2020. Myers-Briggs Personality Test. [online] Available at: <https://www.16personalities.com/> [Accessed 24 December 2020].
+
+Personality Max. 2020. Learning Styles Test. [online] Available at: <https://personalitymax.com/personality-test/> [Accessed 24 December 2020].
+
+Truity. 2020. The Big Five Personality Test. [online] Available at: <https://www.truity.com/test/big-five-personality-test> [Accessed 24 December 2020].
+
+.</p>
+
+</body>
+</html>
